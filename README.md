@@ -21,9 +21,12 @@
 - 💬 **24/7 human support** — real people, not just bots
 - 🗣️ Available in **English · Español · Français · Deutsch · Português**
 
-### Here on GitHub
+### Explore
 
-We share helpful resources, tools and guides for building and hosting on the web. ⭐ Follow along.
+- 📚 **[hosting-guides](https://github.com/vagocat/hosting-guides)** — plain-English guides for domains, DNS, email & websites
+- 🚀 **[website-starter](https://github.com/vagocat/website-starter)** — a clean one-page business site you can deploy in minutes
+
+⭐ Follow along — we share helpful resources, tools and guides for building on the web.
 
 ---
 
